@@ -10,7 +10,6 @@ Software Engineer with 4+ years of experience building scalable backend and fron
 ![](https://streak-stats.demolab.com/?user=jranjan01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jranjan01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=jranjan01&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
