@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software Engineer with 4+ years of experience building scalable backend and frontend applications using<br>TypeScript, Python, FastAPI, Node.js, Redis, GraphQL, SQL, and Vue.js.<br>Experienced in API development and system design.
+Software Engineer with 4+ years of experience building scalable backend applications using Python,
+FastAPI, TypeScript, Node.js, Redis, GraphQL, and SQL. Experienced in API development, system design,
+and building reusable, configuration-driven applications
 
 
 # 💻 Tech Stack:
